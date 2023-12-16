@@ -1,0 +1,11 @@
+# --- SESI LIVE CODING ---
+
+# --- 1. BASICS R ---
+
+# --- 2. VISUALISASI DATA DI R ---
+
+# --- 3. UKURAN STATISTIK DI R ---
+
+# --- 4. NORMALITAS, KORELASI, DAN REGRESI DI R ---
+
+# --- 5. HIPOTESIS DI R
